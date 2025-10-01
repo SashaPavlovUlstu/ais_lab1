@@ -1,0 +1,137 @@
+Сводка результатов экспериментов
+
+single_point + single_point:
+  total_cost = 30909.63
+  transport_cost = 26489.63
+  excess_penalty = 0.00
+  shortage_penalty = 4420.00
+  fitness = 0.000032
+  time = 0.86s
+  best_individual (matrix):
+40 47 0 0 0 0 0 0
+0 22 0 0 0 0 0 1
+1 0 0 0 0 0 40 0
+0 0 9 0 0 0 2 54
+52 0 0 4 5 0 0 0
+
+
+single_point + reset:
+  total_cost = 45132.55
+  transport_cost = 40512.55
+  excess_penalty = 0.00
+  shortage_penalty = 4620.00
+  fitness = 0.000022
+  time = 0.85s
+  best_individual (matrix):
+1 1 1 3 1 3 1 6
+8 37 0 1 8 0 0 0
+5 5 6 0 2 4 17 3
+0 0 9 2 7 0 0 17
+7 0 13 40 7 0 10 12
+
+
+single_point + redistribute:
+  total_cost = 164168.91
+  transport_cost = 162179.91
+  excess_penalty = 144.00
+  shortage_penalty = 1845.00
+  fitness = 0.000006
+  time = 0.84s
+  best_individual (matrix):
+67 15 2 1 7 62 4 22
+77 16 15 20 3 25 14 17
+7 7 14 2 22 17 51 34
+1 21 25 19 16 7 28 29
+25 1 7 113 8 13 2 28
+
+
+two_point + single_point:
+  total_cost = 38132.65
+  transport_cost = 33752.65
+  excess_penalty = 0.00
+  shortage_penalty = 4380.00
+  fitness = 0.000026
+  time = 0.85s
+  best_individual (matrix):
+0 10 6 0 0 0 0 1
+19 55 0 1 1 0 0 0
+0 0 6 0 1 0 26 0
+0 0 0 0 0 0 0 82
+9 1 25 27 6 0 0 9
+
+
+two_point + reset:
+  total_cost = 53016.48
+  transport_cost = 48556.48
+  excess_penalty = 0.00
+  shortage_penalty = 4460.00
+  fitness = 0.000019
+  time = 0.85s
+  best_individual (matrix):
+1 4 7 11 1 0 3 7
+6 29 0 12 3 54 0 5
+0 0 5 6 6 13 17 0
+0 1 5 0 1 1 0 7
+16 4 6 5 3 19 3 8
+
+
+two_point + redistribute:
+  total_cost = 177036.05
+  transport_cost = 175285.05
+  excess_penalty = 76.00
+  shortage_penalty = 1675.00
+  fitness = 0.000006
+  time = 0.85s
+  best_individual (matrix):
+22 32 19 26 24 25 18 14
+18 84 26 0 7 16 16 20
+9 1 0 3 21 76 5 39
+6 3 37 0 56 5 16 23
+32 21 18 34 50 28 0 14
+
+
+uniform + single_point:
+  total_cost = 23928.90
+  transport_cost = 19138.90
+  excess_penalty = 0.00
+  shortage_penalty = 4790.00
+  fitness = 0.000042
+  time = 0.82s
+  best_individual (matrix):
+0 0 0 0 0 1 0 0
+5 2 4 0 1 20 0 0
+0 0 0 0 0 0 69 0
+0 0 13 0 19 5 1 0
+55 0 0 8 0 0 0 0
+
+
+uniform + reset:
+  total_cost = 62554.32
+  transport_cost = 58239.32
+  excess_penalty = 0.00
+  shortage_penalty = 4315.00
+  fitness = 0.000016
+  time = 0.84s
+  best_individual (matrix):
+11 19 11 0 8 0 5 10
+3 0 12 11 11 11 11 11
+0 9 0 1 0 9 22 0
+1 1 12 3 1 2 0 38
+0 15 10 28 0 0 0 12
+
+
+uniform + redistribute:
+  total_cost = 161830.33
+  transport_cost = 160065.33
+  excess_penalty = 80.00
+  shortage_penalty = 1685.00
+  fitness = 0.000006
+  time = 0.84s
+  best_individual (matrix):
+65 29 1 3 13 28 25 16
+20 56 18 0 7 67 5 14
+5 11 17 7 8 16 66 24
+7 16 4 1 43 8 30 37
+84 24 8 25 4 11 16 25
+
+
